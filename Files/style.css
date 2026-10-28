@@ -451,6 +451,19 @@ img.proj_thumb {
 	padding: 1px;
 }
 
+/* Page footer */
+div.page-footer {
+	text-align: center;
+	font-size: 85%;
+	color: #666;
+	padding: 1em 0;
+}
+
+div.page-footer a {
+	color: #666;
+	font-size: 14px;
+}
+
 table {
     border: 2px solid black;
     border-collapse: collapse;
