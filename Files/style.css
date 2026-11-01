@@ -461,7 +461,21 @@ div.page-footer {
 
 div.page-footer a {
 	color: #666;
-	font-size: 14px;
+	font-size: 12px;
+	text-decoration: none;
+}
+
+div.page-footer a:hover {
+	border-bottom: 1px gray dotted;
+}
+
+div.page-footer .footer-sep {
+	margin: 0 0.6em;
+}
+
+div.page-footer .footer-icon {
+	vertical-align: middle;
+	margin-bottom: 2px;
 }
 
 table {
